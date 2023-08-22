@@ -38,5 +38,5 @@ def main():
     print("CBC Ciphertext:", cbc_cipher)
     print("CBC Decrypted:", cbc_decrypted)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
